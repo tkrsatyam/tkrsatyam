@@ -17,7 +17,7 @@
 
 <h2 align="center">Hey :v: I'm Satyam Thakur! </h2>
 
-👋 I am Satyam, an enthusiastic and ambitious developer with a passion for latest Full Stack Technologies. 
+- An enthusiastic and ambitious developer with a passion for latest Full Stack Technologies. 
 
 
 <!--I am 
