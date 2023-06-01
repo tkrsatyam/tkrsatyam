@@ -1,4 +1,11 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Satyam Thakur! </h1>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="110"/>
+</div>
+
+<h2 align="center">Hey :v: I'm Satyam Thakur! </h2>
+
+👋 I am Satyam, an enthusiastic and ambitious developer with a passion for latest Full Stack Technologies. 
+
 
 <!--I am 
 **tkrsatyam/tkrsatyam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
