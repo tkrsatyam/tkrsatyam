@@ -15,7 +15,7 @@
 -->
 </div>
 
-<h2 align="center">Hey :v: I'm Satyam Thakur! </h2>
+<h2 align="center">Hey :v: I'm Satyam Kumar! </h2>
 
 - An enthusiastic and ambitious developer with a passion for latest Full Stack Technologies. 
 
